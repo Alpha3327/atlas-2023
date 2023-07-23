@@ -1,0 +1,43 @@
+{
+	"id": 1049,
+	"name": "Indonesian Flag",
+	"description": "A multicultural country with plenty of unique flora and fauna.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Indonesia"
+		],
+		"subreddit": [
+			"Indonesia"
+		]
+	},
+	"path": {
+		"122-140, 88-96": [
+			[
+				-753,
+				-257
+			],
+			[
+				-753,
+				-232
+			],
+			[
+				-687,
+				-232
+			],
+			[
+				-687,
+				-257
+			],
+			[
+				-720,
+				-257
+			]
+		]
+	},
+	"center": {
+		"122-140, 88-96": [
+			-720,
+			-244
+		]
+	}
+}
